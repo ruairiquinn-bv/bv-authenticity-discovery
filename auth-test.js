@@ -1,1 +1,1 @@
-alert('hello');
+console.log('Auth Test Loaded Successfully!');
